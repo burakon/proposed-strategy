@@ -1,3 +1,6 @@
+Create .env file and wright your api key
+OPENAI_API_KEY="YOUR_API_KEY"
+
 # Nuxt Example
 
 Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
