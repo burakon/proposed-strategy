@@ -1,5 +1,6 @@
-Create .env file and wright your api key
-OPENAI_API_KEY="YOUR_API_KEY"
+Create .env file and write your api key
+
+`OPENAI_API_KEY="YOUR_API_KEY"`
 
 # Nuxt Example
 
